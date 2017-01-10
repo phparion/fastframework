@@ -1,7 +1,7 @@
 <?php
 ############################
 # Written By: Haroon Ahmad #
-# www.haroonahmad.co.uk    #
+# www.fastcreators.com    #
 ############################
 #######################################################################
 # errors display view
