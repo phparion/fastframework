@@ -1,0 +1,3 @@
+Fast Framework is written by Haroon Ahmad (haroon@fastcreators.com)
+
+It is released under MIT License. Please read the details at https://en.wikipedia.org/wiki/MIT_License

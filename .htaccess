@@ -1,0 +1,10 @@
+RewriteEngine On
+
+RewriteRule ^([^/]*)/$ /index.php?controller=show&view=$1 [L]
+
+RewriteRule ^([^/]*)/([^/]*)/$ /index.php?controller=$1&view=$2 [L]
+
+RewriteRule ^([^/]*)/([^/]*)/([^/]*)/$ /index.php?controller=$1&view=$2&param=$3 [L]
+
+
+RewriteRule  ^process/$ index.php?controller=action&opt=login [L]
