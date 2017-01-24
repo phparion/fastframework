@@ -34,7 +34,7 @@ function _construct(){
     $this->NEXT = 0;
     //$this->connectDB(); //use this if working with database applications to get the connection handle ready
 }
-
+/*** will be changed to PDO ***/
 
 function connectDB(){
 
